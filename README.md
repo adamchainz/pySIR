@@ -40,7 +40,7 @@ After every call you will get a ```Call``` object which has three attributes:
 
 As I mentioned before, this is a 1:1 mapping of the raw API. You can check the supported methods in the official documentation:
 
-http://sdn-internet-router-sir.readthedocs.org/en/latest/api/api_v1.0.html
+https://sdn-internet-router-sir.readthedocs.io/en/latest/api/api_v1.0.html
 
 I recommend you to quickly check the code in the file ```pySIR/pySIR.py``` to quickly see the names of the methods supported. The code and the names are quite straightforward so the code should be easy to read.
 
